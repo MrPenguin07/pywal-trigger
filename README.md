@@ -5,13 +5,13 @@ https://github.com/MrPenguin07/pywall-trigger/assets/127086564/fd91917b-971f-43a
 
 
 # pywall-trigger
-Simple scripts to trigger pywal while for SwayWM.
-The video above shows it being executed via my SwayNC button.
+Simple scripts to trigger pywal, designed for SwayWM.
+The video above shows the script being executed via my SwayNC button.
 
 Dependencies;
 - Sway (swaybg)
 - pywal (https://github.com/dylanaraps/pywal)
-- inotify2
+- inotify2 (optional notifications)
 
 ## The 2 Scripts:
 pywal-trigger.sh
