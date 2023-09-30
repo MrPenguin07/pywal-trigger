@@ -13,6 +13,16 @@ Dependencies;
 - pywal (https://github.com/dylanaraps/pywal)
 - inotify2 (optional notifications)
 
+## INSTALL;
+
+`git clone` or `wget` scripts to your chosen location, perhaps in your $PATH. Place pywal.png in /usr/share/icons/
+
+Make them executable:
+
+`$ chmod +x pywal*.sh`
+
+
+
 ## The 2 Scripts:
 pywal-trigger.sh
 - Finds the currently set background image and passes it to pywal to generate colours, using a random backend.
