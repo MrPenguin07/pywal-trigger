@@ -16,13 +16,13 @@ Dependencies;
 
 ## INSTALL;
 
-`git clone` or `wget` scripts to your chosen location, perhaps in your $PATH. Place pywal.png in /usr/share/icons/
+- `git clone` or `wget` scripts to your chosen location, perhaps in your $PATH. 
+
+- Place pywal.png in /usr/share/icons/
 
 Make them executable:
 
-`$ chmod +x pywal*.sh`
-
-
+- `$ chmod +x pywal*.sh`
 
 ## The 2 Scripts:
 pywal-trigger.sh
