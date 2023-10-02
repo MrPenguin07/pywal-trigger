@@ -4,7 +4,7 @@ https://github.com/MrPenguin07/pywall-trigger/assets/127086564/fd91917b-971f-43a
 
 
 
-# pywall-trigger
+# ![image](https://github.com/MrPenguin07/pywal-trigger/assets/127086564/d6fcc330-4396-4e71-9f53-c830c835404c) pywall-trigger 
 Simple scripts to trigger pywal, designed for SwayWM.
 The video above shows the script being executed via my shortcut SwayNC button, you can use a `bindsym` or hotkey etc.
 
@@ -32,10 +32,11 @@ pywal-trigger.sh
 
 pywal-wallpaper-trigger.sh
 - Sets a random background image from your collection, then runs pywal over it to set the theme.
-- Note: Set `$directory` on line 4 to your main wallpaper repository eg ~/wallpapers
+- Note: Set `$directory` on line 14 to your main wallpaper repository eg ~/wallpapers
 
 ### Notes
 Some modifications can allow these to be used with different WM, or triggered by ranger in rifle.conf for example.
-![image](https://github.com/MrPenguin07/pywall-trigger/assets/127086564/36aeebba-e6ea-4d10-93ae-1932b603b7af)
+
+
 
 
